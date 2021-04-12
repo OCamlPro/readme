@@ -5,7 +5,7 @@
 2. Fork SG repository https://github.com/freeton-org/SG_REPO_NAME to your account
    ![image](https://user-images.githubusercontent.com/15122233/114208472-30d65980-9966-11eb-800f-bf1a4425e4ca.png)
 
-3. Clone the fork and add your repo to submission directory **using git subtree** functionality:
+3. Clone the fork and add your repo to submission directory **using [git subtree](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202 "Git Subtree Basics")** functionality:
 
 ```sh
 git clone https://github.com/<YOUR_NAME>/<SG_REPO_NAME>.git
