@@ -1,6 +1,4 @@
-# Free TON DevOps Governance Repository
-
-## How to participate in Contests
+# How to participate in Contests
 
 1. Each Contest is operated by Sub-Governance (SG) - a group of people responsible for specific domain. Each SG has a separate repository where all Contest materials are hosted. Each Contest participant should know which SG operates the Contest.
 
